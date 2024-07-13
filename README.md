@@ -1,6 +1,7 @@
 # Quick Notes
 
 Quick Notes is a web application for storing and managing your notes, accessible from both desktop and mobile devices.
+To view the website , [Click here](https://notes-app-bytx.onrender.com)
 
 ## Features
 

@@ -18,7 +18,7 @@ Quick Notes is a web application for storing and managing your notes, accessible
 
 ## Deployment
 
-The Quick Notes app is currently deployed and accessible at [https://chat-app-7bfs.onrender.com](https://chat-app-7bfs.onrender.com).
+The Quick Notes app is currently deployed and accessible at [here](https://notes-app-bytx.onrender.com)
 
 ## Getting Started
 

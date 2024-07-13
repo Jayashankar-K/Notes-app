@@ -12,7 +12,7 @@ To view the website , [Click here](https://notes-app-bytx.onrender.com)
 
 ## Technologies Used
 
-- **Frontend**: React, Vite, Axios, Tailwind CSS
+- **Frontend**: Vite + React, Axios, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Deployment**: Render
